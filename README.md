@@ -1,7 +1,6 @@
 # quiz_app
 
 A new Flutter project.
-This project contains a quesions about flutter with its correct answers .
 
 ## Getting Started
 
